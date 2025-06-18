@@ -1,4 +1,5 @@
 SEA LEVEL PREDICTOR
+
 This project analyzes historical sea level data and uses linear regression to predict future sea level trends. 
 
 Two lines of best fit are plotted: one using all available data and another using data from the year 2000 onwards.
