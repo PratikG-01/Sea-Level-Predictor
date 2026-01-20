@@ -8,9 +8,9 @@ Two lines of best fit are plotted: one using all available data and another usin
 
 ## Files
 
-- sea_level_predictor.py: Main script to read the data, visualize it, and perform regression analysis.
-- epa-sea-level.csv: Dataset containing historical sea level measurements.
-- sea_level_plot.png: Output plot with scatter data and prediction lines.
+- **sea_level_predictor.py**: Main script to read the data, visualize it, and perform regression analysis.
+- **epa-sea-level.csv**: Dataset containing historical sea level measurements.
+- **sea_level_plot.png**: Output plot with scatter data and prediction lines.
 
 ---
 
